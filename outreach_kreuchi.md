@@ -13,7 +13,7 @@ Die Idee waere zum Beispiel: Leistungen sofort sichtbar, schnelle Kontaktmoeglic
 
 Hier ist die unverbindliche Vorschau:
 
-[Demo-Link einfuegen]
+https://stark24-ag.github.io/kreuchi-auto-niederbipp-preview/
 
 Ich moechte Ihre aktuelle Arbeit nicht kritisieren. Viele lokale Betriebe haben schlicht keine Zeit, ihre Webseite staendig zu ueberarbeiten. Falls die Richtung fuer Sie interessant ist, wuerde ich mich ueber eine kurze Rueckmeldung freuen.
 

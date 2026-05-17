@@ -2,6 +2,8 @@
 
 Modern static website preview for Kreuchi Auto AG in Niederbipp.
 
+Live preview: https://stark24-ag.github.io/kreuchi-auto-niederbipp-preview/
+
 This preview restructures the public content from the current website into a mobile-first one-page experience:
 
 - Garage, service and repair overview
