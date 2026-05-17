@@ -54,7 +54,7 @@ form?.addEventListener("submit", (event) => {
   ].join("\n");
 
   if (formStatus) {
-    formStatus.textContent = "Das E-Mail-Programm wird geoeffnet.";
+    formStatus.textContent = "Das E-Mail-Programm wird geöffnet.";
   }
 
   window.location.href = `mailto:info@kreuchi-auto.ch?subject=${encodeURIComponent(
